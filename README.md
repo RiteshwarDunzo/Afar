@@ -1,8 +1,8 @@
-# RodneyTheKnight
+# Rodney The Knight
 
 A fantasy-themed 2D platformer built with *Godot 4.6.3*
 
-. Inspired by Brackeys' Godot tutorial series, this project started as a learning experience and is continuously being expanded with new features, mechanics, enemies, and gameplay improvements.
+Inspired by Brackeys' Godot tutorial series, this project started as a learning experience and is continuously being expanded with new features, mechanics, enemies, and gameplay improvements.
 
 Play as a brave knight and embark on an adventure filled with challenging jumps, dangerous slimes, hidden treasures, and exciting platforming action.
 
@@ -21,10 +21,6 @@ https://github.com/user-attachments/assets/c0bb4af0-bc04-4215-baaa-8e08ed0d1fab
 - Kill zones and respawning
 - Pixel-art graphics
 - Built with GDScript
-
-## 📹 Demo
-
-https://your-demo-video-link-here
 
 ## 🎮 Controls
 
@@ -64,7 +60,7 @@ This project is currently under active development. New content, mechanics, enem
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ritesh
+git clone https://github.com/RiteshwarDunzo/RodneyTheKnight.git
 ```
 
 ### Open in Godot
