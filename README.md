@@ -1,41 +1,103 @@
 # RodneyTheKnight
-Simple 2D Platformer
 
-A simple 2D platformer built with Godot 4.6.3. This project started by following Brackeys' Godot tutorial and serves as a learning project for exploring game development with Godot and GDScript.
+A fantasy-themed 2D platformer built with *Godot 4.6.3*
 
-The game currently includes player movement, jumping, collectibles, enemies, sound effects, and a scoring system. More features, mechanics, levels, and polish will be added as development continues.
+. Inspired by Brackeys' Godot tutorial series, this project started as a learning experience and is continuously being expanded with new features, mechanics, enemies, and gameplay improvements.
 
+Play as a brave knight and embark on an adventure filled with challenging jumps, dangerous slimes, hidden treasures, and exciting platforming action.
 
-
-
-https://github.com/user-attachments/assets/529eddd9-78e5-4ebd-9141-fb8eab3deafc
+https://github.com/user-attachments/assets/c0bb4af0-bc04-4215-baaa-8e08ed0d1fab
 
 
+## ✨ Features
 
+- Smooth player movement
+- Responsive jumping mechanics
+- Animated player character
+- Coin collection system
+- Score tracking
+- Enemy interactions
+- Sound effects and background music
+- Kill zones and respawning
+- Pixel-art graphics
+- Built with GDScript
 
+## 📹 Demo
 
+https://your-demo-video-link-here
 
+## 🎮 Controls
 
+| Action | Key |
+|---------|-----|
+| Move Left | A / ← |
+| Move Right | D / → |
+| Jump | Space |
+| Pause | Esc |
 
+## 🛠️ Built With
 
-Features
-Player movement and jumping
-Animated character sprites
-Coin collection
-Score system
-Enemy hazards
-Sound effects and music
-Kill zones and respawning
-Pixel-art style graphics
-Built With
-Godot Engine 4.6.3
-GDScript
-Project Status
+- Godot Engine 4.6.3
+- GDScript
+- Aseprite
+- Git & GitHub
 
-🚧 Work in Progress
+## 🚧 Project Status
 
-This project is continuously updated as I learn new game development concepts and experiment with additional gameplay features.
+This project is currently under active development. New content, mechanics, enemies, and levels will continue to be added as development progresses.
 
-Credits
-Inspired by Brackeys' Godot tutorial series
-Developed by Riteshwar Singh
+## 🔮 Planned Features
+
+- Double Jump
+- Dash Ability
+- Checkpoint System
+- Health System
+- Additional Enemy Types
+- Power-ups
+- Multiple Levels
+- Improved UI
+- Main Menu & Pause Menu
+- Boss Battles
+- Save System
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Ritesh
+```
+
+### Open in Godot
+
+1. Launch Godot 4.6.3 or later.
+2. Import the project.
+3. Open the project folder.
+4. Press **F5** to run the game.
+
+## 📂 Project Structure
+
+```text
+assets/      -> Sprites, textures, and artwork
+audio/       -> Sound effects and music
+scenes/      -> Game scenes
+scripts/     -> GDScript files
+```
+
+## 📚 Learning Goals
+
+This project is helping me learn:
+
+- Godot Engine
+- GDScript
+- Game Design Principles
+- Animation Systems
+- Audio Integration
+- UI Development
+- Version Control with Git
+
+## 🙏 Credits
+
+- Inspired by Brackeys' Godot Tutorial Series
+- Developed by Riteshwar Singh
+  
