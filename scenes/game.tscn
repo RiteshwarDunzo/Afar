@@ -344,6 +344,7 @@ sources/0 = SubResource("TileSetAtlasSource_iywne")
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_p57ef"]
 
 [node name="Game" type="Node2D" unique_id=1377473948]
+position = Vector2(1, -1)
 
 [node name="AudioStreamPlayer2D" parent="." unique_id=1330392515 instance=ExtResource("1_vtaks")]
 stream = SubResource("AudioStreamMP3_vtaks")
