@@ -7,7 +7,7 @@ Inspired by Brackeys' Godot tutorial series, this project started as a learning 
 
 Lost after a devastating battle, a brave knight embarks on a perilous journey home, battling monsters and overcoming obstacles along the way. Play as Rodney the knight and embark on an adventure filled with challenging jumps, dangerous slimes, hidden treasures, and exciting platforming action.
 
-https://github.com/user-attachments/assets/c0bb4af0-bc04-4215-baaa-8e08ed0d1fab
+https://github.com/user-attachments/assets/2479456d-aeb8-49c2-9be0-3c7c6ea333ef
 
 
 ## ✨ Features
